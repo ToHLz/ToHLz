@@ -1,4 +1,4 @@
-### Hello!!! 👋 welcome to my GitHub. Before you proceed, I would love to give you a brief overview of what is happening on my GitHub. 
+### Hello!!! 👋 and welcome, my name is Nancy(ToHLz). Before you proceed, I would love to give you a brief introduction. 
 
 - 🔭 I’m currently working on a Recommendation Engine/ System (challenging, but I love the challenge 😁).
 - 🌱 I’m currently learning Flask and Software development (in order to deploy the recommendation engine/system, I am learning everything about flask and how to use it for the purpose I want to achieve. Software Development is something I am dabbling into now because I got the opportunity to 😁)
